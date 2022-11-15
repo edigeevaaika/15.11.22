@@ -5,3 +5,11 @@
   float:right;
   margin: 10px;
 }
+.coat{
+  float: left;
+  margin: 10px;
+}
+.h3{
+  background-color: aquamarine;
+  color: blueviolet;
+}
