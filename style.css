@@ -12,4 +12,10 @@
 .h3{
   background-color: aquamarine;
   color: blueviolet;
+  float: left;
+
+}
+.h1{
+float: none;
+color: brown;
 }
